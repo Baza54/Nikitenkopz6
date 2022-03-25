@@ -5,8 +5,12 @@ Nikitenko Mikhail Vladimirovich
 main4
 main5
 Ветк4
+<<<<<<< HEAD
 Угол на ветке4
 Ветка5
 Ветка51
 Ветка52
 Ветка53
+=======
+Угол на ветке4
+>>>>>>> Session4
